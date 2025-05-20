@@ -1,16 +1,38 @@
-# f_20_sayi_tahmin_oyunu
+# Number Guessing Game
 
-A new Flutter project.
+This project is a simple number guessing game developed with Flutter.  
+The user tries to guess a randomly generated number within a range, and the app checks if the guess is correct.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- Random number generation  
+- User input for guesses  
+- Guess validation and feedback  
+- Hints for too high or too low guesses  
+- Simple and user-friendly interface  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+
+_Below are screenshots showcasing different parts of the app:_
+
+![](1.PNG)  
+_Main screen_
+
+![Result Screen](screenshots/result_screen.png)  
+_Screen showing guess results_
+
+---
+
+## How to Run
+
+1. Make sure Flutter SDK is installed.  
+2. Clone or download the project folder.  
+3. Navigate to the project directory in the terminal.  
+4. Run `flutter pub get` to install dependencies.  
+5. Run `flutter run` to launch the app.
+
+
