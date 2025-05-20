@@ -19,11 +19,8 @@ The user tries to guess a randomly generated number within a range, and the app 
 
 _Below are screenshots showcasing different parts of the app:_
 
-![](1.PNG)  
-_Main screen_
+![](1.PNG)  ![](2.PNG) ![](3.PNG) ![](4.PNG)
 
-![Result Screen](screenshots/result_screen.png)  
-_Screen showing guess results_
 
 ---
 
